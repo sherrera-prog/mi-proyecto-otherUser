@@ -7,5 +7,6 @@ include ./src/functions.php
 
 //Llamar a la función saludar del archivo functions.php y mostrar el saludo.
 echo saludar();
+echo "Texto añadido despues de hacer el forkeado del repositorio del compañero";
 
 ?>
